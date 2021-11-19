@@ -1,6 +1,6 @@
 # mnist-prediction-using-Neural-Network
 
-The aim of this project is to predict the number from the imsges.
+The aim of this project is to predict the number from the images.
 
 ## Dataset:
 mnist dataset.
